@@ -1,0 +1,28 @@
+Dependency: Python2.7.10+
+		    Python pandas 0.19.2 or later
+		    install "pip install pandas" or upgrade "sudo pip install --upgrade pandas"
+
+
+
+Code       : Contains script Run.py, Process_Function.py, Path.py
+			 
+			 Path.py contains variable for assigining path
+			 		1) final_data_path :path where Processed file will be saved
+			 		2) location_of_the_data_files : path where data collected is stored
+			 Run.py : After setting the path in Path.py run command "python Run.py"
+
+			 Process_Function.py: Contatins functions to process the excel files
+
+
+Data        : Contains  collected excel files
+
+Final Data  : Contains processed data 
+
+
+How to run:
+	set path for location of excel files (collected)in "location_of_the_data_files" 
+	set path for saving th processed data files in final_data_path.
+	Execute python Run.py processed data will be saved at final_data_path
+
+	Add more files at location_of_the_data_files, 
+	run python Run.py, repeat the process, after ading new files at location_of_the_data_files 		 

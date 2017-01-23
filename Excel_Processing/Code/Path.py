@@ -1,0 +1,2 @@
+final_data_path='/home/sotore/Excel_Processing/Final_Data' #Path where the processed data will be saved
+location_of_the_data_files='/home/sotore/Excel_Processing/Data'   # Path where data to processed are saved
