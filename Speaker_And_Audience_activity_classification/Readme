@@ -1,0 +1,2 @@
+The project classifies the speaker speaking publicly (giving speech) and audince reacting to te speech eg applauding, booing, clapping 
+. The project classifies the speaker activity and audience activity. The accuracy of speaker activity classifcation in 85% and audience activity is 69%.
